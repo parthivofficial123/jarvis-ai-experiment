@@ -1,0 +1,9 @@
+whisper
+sounddevice
+scipy
+numpy
+pyttsx3
+requests
+opencv-python
+torch
+ultralytics
