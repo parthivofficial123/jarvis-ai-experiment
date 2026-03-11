@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files generated during runtime
+*.wav
+*.mp3
+
+# Model weights (YOLO / ML models)
+*.pt
+
+# Temporary files
+temp.wav
+
+# OS files
+.DS_Store
